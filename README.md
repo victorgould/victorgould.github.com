@@ -1,4 +1,4 @@
-victorgould.github.com
+victorgould.com
 ======================
 
-The website.
+Kick and glide.
